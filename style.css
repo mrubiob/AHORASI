@@ -9,10 +9,8 @@ html, body {
     height: 100%;
   }
 
-  #help{
-    position: relative;
-    z-index: -2;
-  }
+
+
 .container{
     display: grid; /* Activa el modelo de CSS Grid, que permite distribuir elementos en filas y columnas con control avanzado */
     grid-template-columns: 7fr 18fr 9fr; /* tres columnas de diferentes anchos */
