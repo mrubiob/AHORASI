@@ -31,7 +31,7 @@ html, body {
     gap: 10px; /* espacio entre filas y columnas*/
     width: 100vw; /* asegura todo uso del viewport*/
     height: auto;
-    background-color: rgba(158, 227, 238,0.2);
+    background-color: #dadbf1;
     padding: 10px; /* Agrega un poco de espacio alrededor del contenedor */
        
 }
